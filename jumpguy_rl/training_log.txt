@@ -1,0 +1,11 @@
+[DQN] Using device: cpu
+[DQN] Saved checkpoint to checkpoints/best.pt
+[DQN] Saved checkpoint to checkpoints/best.pt
+[DQN] Saved checkpoint to checkpoints/best.pt
+Ep   50/1000 | Last:  0 Best:  6 Avg50:  0.5 Max50:  6 Eps:0.861 29s
+Ep  100/1000 | Last:  0 Best:  6 Avg50:  0.5 Max50:  5 Eps:0.740 59s
+Ep  150/1000 | Last:  0 Best:  6 Avg50:  0.6 Max50:  4 Eps:0.637 89s
+[DQN] Saved checkpoint to checkpoints/best.pt
+Ep  200/1000 | Last:  0 Best:  7 Avg50:  0.5 Max50:  7 Eps:0.548 120s
+[DQN] Saved checkpoint to checkpoints/checkpoint_ep200.pt
+Ep  250/1000 | Last:  0 Best:  7 Avg50:  0.5 Max50:  3 Eps:0.472 166s

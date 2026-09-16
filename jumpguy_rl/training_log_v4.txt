@@ -1,0 +1,5 @@
+[DQN] Using device: cpu
+[DQN] Saved checkpoint to checkpoints/best.pt
+[DQN] Saved checkpoint to checkpoints/best.pt
+Ep   100/2000 | Last:  0 Best:  5 Avg100:  0.6 Max100:  5 Eps:0.740 61s
+[DQN] Saved checkpoint to checkpoints/best.pt
